@@ -5,16 +5,6 @@
   },
   {
     "id": "@AraCred",
-    "discord": {
-      "guildId": "695344751490236486",
-      "reactionWeights": {
-        "👍": 1,
-        "🔥": 1,
-        "❤️": 1,
-        "💯": 1,
-        "🙏": 1
-      }
-    },
     "identities": [
       {
         "username": "burrrata",
