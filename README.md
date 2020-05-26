@@ -1,5 +1,5 @@
-![Run SourceCred](https://github.com/aracred/AraCred/workflows/Run%20SourceCred/badge.svg)
-![Run aragonCLI](https://github.com/aracred/AraCred/workflows/Run%20aragonCLI/badge.svg)
+![Run SourceCred](https://github.com/pythonpete32/meta-test/workflows/Run%20SourceCred/badge.svg)
+![Run aragonCLI](https://github.com/pythonpete32/meta-test/workflows/Run%20aragonCLI/badge.svg)
 
 <br>
 
