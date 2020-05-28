@@ -36,5 +36,7 @@ jobs:
         run: npm install -g @aragon/cli
       - name: Prepare transaction
         run: node ./src/processGrain.js
+      - name: Echo Transaction Settings
+        run: echo ./log/transactionSettings.js
       - name: Sending Transaction
         run: node ./src/runAction.js | sh
