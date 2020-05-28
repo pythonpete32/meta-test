@@ -1,7 +1,7 @@
 {
     "daoAddress": "0x7CdB4a2f2d12c65421D96fd661Cf4e92234Aa2Af",
     "tokenManagerAddress": "0x232d2d2f51cb959545905485c9c5620051f56382",
-    "votingAddress": "0x29c58e25df47f1b958e1d707fb7b4a9800554d5c",
+    "votingAddress": "0x7397e7a67eed66e6b210b1cc3585241dbdecca92",
     "financeAddress": "0xe2e683ca81be510a1c7602720a239854fbc9b9de",
     "tokenAddress": "0x9662804c1C721AFBC17862303aB7fC864e063258",
     "environment": "rinkeby",
