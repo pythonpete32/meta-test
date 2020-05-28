@@ -112,7 +112,7 @@ const transferSettings = (rawScore, addressBook) => {
       return {
         "tokenAddress": tokenAddress,
         "receiverAddress": user[0],
-        "amount": BigNumber(user[1]).dividedBy(total).multipliedBy(22).toString().replace(".", ""),
+        "amount": BigNumber(user[1]).set({ DECIMAL_PLACES: 18 }).dividedBy(total).multipliedBy(10).toString().replace(".", ""),
         "receipt": user[2]
       }
   });
