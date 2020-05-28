@@ -5,6 +5,6 @@
     "financeAddress": "0xe2e683ca81be510a1c7602720a239854fbc9b9de",
     "tokenAddress": "0x9662804c1C721AFBC17862303aB7fC864e063258",
     "environment": "rinkeby",
-    "tokensToMint": "100",
+    "tokensToMint": "10",
     "mode": "transfer"
 }
