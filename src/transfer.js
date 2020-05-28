@@ -31,8 +31,9 @@ async function main() {
 
   // Encode all actions into a single EVM script.
   const script = encodeCallScript(actions);
+  // *** False argument required for dandelion voting***
   console.log(
-    `npx dao exec ${daoAddress} ${votingAddress} newVote ${script} Payments --environment aragon:${environment} `,
+    `npx dao exec ${daoAddress} ${votingAddress} newVote ${script} Payments false --environment aragon:${environment} `,
   );
 
   process.exit();
